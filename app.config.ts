@@ -11,7 +11,7 @@ export default defineAppConfig({
     },
 
     h2: {
-      icon: 'mdi:snail'
+      icon: ''
     }
   }
 })
