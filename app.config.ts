@@ -7,7 +7,11 @@ export default defineAppConfig({
   },
   prose: {
     h1: {
-      icon: 'carbon:sailboat-coastal'
+      icon: 'mdi:snail'
+    },
+
+    h2: {
+      icon: 'mdi:snail'
     }
   }
 })
