@@ -1,9 +1,10 @@
-# Cape Escargots - Pharmaceutical Grade Snail Mucus
+# Luxury Products
 
-## **Luxurious Snail Mucus for the Pharmaceutical Industry**
+## Snail Mucus beauty products
 
 ### Premium Snail Mucus Supply
-![Cape Escargots](CE_Logo.png)
+
+
 **Elevating Pharmaceuticals with Nature's Finest**
 Cape Escargots is proud to supply the pharmaceutical industry with high-grade snail mucus. Extracted from our carefully nurtured Helix Aspersa snails at Bakenrug Farm, our mucus is a symbol of luxury and efficacy in the medical world.
 
